@@ -1,0 +1,394 @@
+{
+  "nodes": [
+    {
+      "key": "0.0",
+      "attributes": {
+        "x": 268.72385,
+        "y": 91.18155,
+        "size": 22,
+        "label": "Myriel",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "1.0",
+      "attributes": {
+        "x": 296.39902,
+        "y": 57.118374,
+        "size": 15,
+        "label": "Napoleon",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "2.0",
+      "attributes": {
+        "x": 248.45229,
+        "y": 52.22656,
+        "size": 16.714285,
+        "label": "MlleBaptistine",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "11.0",
+      "attributes": {
+        "x": -8.81755,
+        "y": -60.480377,
+        "size": 45,
+        "label": "Descolonizando el Algoritmo",
+        "color": "#73797d"
+      }
+    },
+    {
+      "key": "16.0",
+      "attributes": {
+        "x": 232.50653,
+        "y": -165.75543,
+        "size": 21.857143,
+        "label": "Tholomyes",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "17.0",
+      "attributes": {
+        "x": 322.50223,
+        "y": -210.94756,
+        "size": 20.142857,
+        "label": "Listolier",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "18.0",
+      "attributes": {
+        "x": 322.0389,
+        "y": -162.5361,
+        "size": 20.142857,
+        "label": "Fameuil",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "19.0",
+      "attributes": {
+        "x": 282.84045,
+        "y": -234.37758,
+        "size": 20.142857,
+        "label": "Blacheville",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "20.0",
+      "attributes": {
+        "x": 282.14212,
+        "y": -141.3707,
+        "size": 20.142857,
+        "label": "Favourite",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "21.0",
+      "attributes": {
+        "x": 279.24896,
+        "y": -186.69917,
+        "size": 20.142857,
+        "label": "Dahlia",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "22.0",
+      "attributes": {
+        "x": 240.49136,
+        "y": -212.45226,
+        "size": 20.142857,
+        "label": "Zephine",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "23.0",
+      "attributes": {
+        "x": 185.86234,
+        "y": -128.47615,
+        "size": 27,
+        "label": "Fantine",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "24.0",
+      "attributes": {
+        "x": -15.730793,
+        "y": 46.37429,
+        "size": 23.57143,
+        "label": "MmeThenardier",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "25.0",
+      "attributes": {
+        "x": 3.6068764,
+        "y": 98.60965,
+        "size": 27.857143,
+        "label": "Thenardier",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "26.0",
+      "attributes": {
+        "x": -69.92912,
+        "y": -15.777599,
+        "size": 23.57143,
+        "label": "Cosette",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "27.0",
+      "attributes": {
+        "x": 54.198936,
+        "y": 49.115128,
+        "size": 28.714287,
+        "label": "Javert",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "29.0",
+      "attributes": {
+        "x": 97.39532,
+        "y": -157.35661,
+        "size": 21,
+        "label": "Bamatabois",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "41.0",
+      "attributes": {
+        "x": -84.15585,
+        "y": 140.50175,
+        "size": 23.57143,
+        "label": "Eponine",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "48.0",
+      "attributes": {
+        "x": -215.57619,
+        "y": 34.40003,
+        "size": 33,
+        "label": "Gavroche",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "49.0",
+      "attributes": {
+        "x": -119.18742,
+        "y": -17.39732,
+        "size": 20.142857,
+        "label": "Gillenormand",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "51.0",
+      "attributes": {
+        "x": -93.255005,
+        "y": -60.657784,
+        "size": 20.142857,
+        "label": "MlleGillenormand",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "55.0",
+      "attributes": {
+        "x": -142.15263,
+        "y": 36.388676,
+        "size": 30.428574,
+        "label": "Marius",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "57.0",
+      "attributes": {
+        "x": -267.16248,
+        "y": 196.98003,
+        "size": 23.57143,
+        "label": "Mabeuf",
+        "color": "#1c355b"
+      }
+    },
+    {
+      "key": "58.0",
+      "attributes": {
+        "x": -190.88988,
+        "y": 96.44671,
+        "size": 27,
+        "label": "Enjolras",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "59.0",
+      "attributes": {
+        "x": -222.5417,
+        "y": 144.66484,
+        "size": 23.57143,
+        "label": "Combeferre",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "60.0",
+      "attributes": {
+        "x": -325.61102,
+        "y": 166.71417,
+        "size": 21.857143,
+        "label": "Prouvaire",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "61.0",
+      "attributes": {
+        "x": -276.3468,
+        "y": 145.79153,
+        "size": 23.57143,
+        "label": "Feuilly",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "62.0",
+      "attributes": {
+        "x": -251.45561,
+        "y": 97.83937,
+        "size": 25.285713,
+        "label": "Courfeyrac",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "63.0",
+      "attributes": {
+        "x": -318.40936,
+        "y": 114.202415,
+        "size": 24.428572,
+        "label": "Bahorel",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "64.0",
+      "attributes": {
+        "x": -278.9682,
+        "y": 45.932438,
+        "size": 25.285713,
+        "label": "Bossuet",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "65.0",
+      "attributes": {
+        "x": -333.04984,
+        "y": 62.438156,
+        "size": 24.428572,
+        "label": "Joly",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "66.0",
+      "attributes": {
+        "x": -370.2446,
+        "y": 101.73884,
+        "size": 22.714287,
+        "label": "Grantaire",
+        "color": "#0c3357"
+      }
+    },
+    {
+      "key": "68.0",
+      "attributes": {
+        "x": -16.550194,
+        "y": 152.69055,
+        "size": 22.714287,
+        "label": "Gueulemer",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "69.0",
+      "attributes": {
+        "x": 35.653145,
+        "y": 144.49445,
+        "size": 22.714287,
+        "label": "Babet",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "70.0",
+      "attributes": {
+        "x": 58.97649,
+        "y": 188.46011,
+        "size": 22.714287,
+        "label": "Claquesous",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "71.0",
+      "attributes": {
+        "x": -2.9325058,
+        "y": 200.66508,
+        "size": 21.857143,
+        "label": "Montparnasse",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "75.0",
+      "attributes": {
+        "x": -56.819256,
+        "y": 182.0544,
+        "size": 20.142857,
+        "label": "Brujon",
+        "color": "#113b69"
+      }
+    },
+    {
+      "key": "76.0",
+      "attributes": {
+        "x": -382.06223,
+        "y": 47.045475,
+        "size": 20.142857,
+        "label": "MmeHucheloup",
+        "color": "#113b69"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "1.0",
+      "target": "0.0",
+      "attributes": {
+        "size": 1
+      }
+    }
+  ]
+}

@@ -1,13 +1,10 @@
 {
-  "name": "3k45s7",
-  "version": "0.0.0",
+  "name": "sigma-example-use-reducers",
+  "version": "1.0.0",
   "description": "This example shows how to use sigma reducers to dynamically change nodes and edges appearance.",
   "main": "index.js",
   "scripts": {
-    "start": "kotatsu serve --typescript index.ts --public / ./public",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "start": "kotatsu serve --typescript index.ts --public / ./public"
   },
   "license": "MIT",
   "dependencies": {
@@ -15,7 +12,6 @@
     "sigma": "latest"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0",
     "kotatsu": "^0.22.3",
     "typescript": "4.4.4"
   }
